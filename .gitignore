@@ -1,5 +1,5 @@
 ### Github File Push Ignore
 
 **/*.class
-nn
+*.nn-data
 data
