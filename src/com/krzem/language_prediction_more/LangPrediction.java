@@ -24,7 +24,6 @@ class LangPrediction{
 
 
 
-
 	public LangPrediction(String fp){
 		this.fp=fp;
 		if (new File(this.fp+".nn-data").exists()){
